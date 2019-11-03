@@ -1,4 +1,5 @@
 /*
+WProgram.h - Just enough Arduino to appease the TinyGPSPlus library.
 Copyright (C) 2019 Andrew Russell
 andy@russell.works
 
